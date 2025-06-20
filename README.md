@@ -63,3 +63,9 @@ This Power BI dashboard analyzes hotel booking data to uncover trends in custome
 
 ![image](https://github.com/user-attachments/assets/cfd416f8-bd2c-46b7-898a-5f0ffe484036)
 
+---
+## 👨‍💻 Author
+- **Tirthankar Bagal**
+- **📧 tirthankarbagal@gmail.com**
+- **linkedin.com/in/tirthankar-bagal/**
+
